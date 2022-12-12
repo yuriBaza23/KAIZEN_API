@@ -10,7 +10,7 @@
   "author": "Yuri Baza / KAIZEN - Núcleo de Auto-defesa",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-mandrill": "^1.0.1",
     "nodemailer": "^6.4.4"
   }
